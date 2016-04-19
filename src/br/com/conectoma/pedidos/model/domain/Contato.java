@@ -1,4 +1,4 @@
-package dominio;
+package br.com.conectoma.pedidos.model.domain;
 
 import java.util.ArrayList;
 import java.util.List;
