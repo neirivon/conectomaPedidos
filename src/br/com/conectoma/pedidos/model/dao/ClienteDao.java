@@ -5,7 +5,7 @@ import java.util.List;
 import br.com.conectoma.pedidos.model.domain.Cliente;
 
 
-
+//Neirivon Elias Cardoso
 public interface ClienteDao {
 
 	List<Cliente> getClientes(Cliente cliente);
