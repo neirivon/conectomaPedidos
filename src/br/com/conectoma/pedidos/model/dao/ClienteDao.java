@@ -6,6 +6,7 @@ import br.com.conectoma.pedidos.model.domain.Cliente;
 
 
 //Neirivon Elias Cardoso
+//Editado online no GITHUB
 public interface ClienteDao {
 
 	List<Cliente> getClientes(Cliente cliente);
